@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0d105fa8-eb1b-415a-9999-acdd521eab04" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../gs-collections-kata/GSCollectionsKata.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../gs-collections-kata/GSCollectionsKata.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../gs-collections-kata" />
+  </component>
+  <component name="ProjectId" id="1UnFpKxWFuGmQlnYGocw8cKBaw2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../ncore/ncore/ncore" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/properties/src/tasks/examples/delegates" />
+      <recent name="$PROJECT_DIR$/collections/src/koltin/collections/filtermap" />
+      <recent name="$PROJECT_DIR$/collections/src/koltin/collections/introduction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.examples.generic.GenericKt">
+    <configuration name="builders.examples.apply.ApplyKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="builders" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="builders.examples.apply.ApplyKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builders.examples.functionliteral.LiteralKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="builders" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="builders.examples.functionliteral.LiteralKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builders.examples.html.HtmlBuilderKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="builders" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="builders.examples.html.HtmlBuilderKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="builders.examples.stringmap.StringMapKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="builders" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="builders.examples.stringmap.StringMapKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="examples.generic.GenericKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="generic_functions" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="examples.generic.GenericKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.examples.generic.GenericKt" />
+        <item itemvalue="Kotlin.builders.examples.html.HtmlBuilderKt" />
+        <item itemvalue="Kotlin.builders.examples.apply.ApplyKt" />
+        <item itemvalue="Kotlin.builders.examples.stringmap.StringMapKt" />
+        <item itemvalue="Kotlin.builders.examples.functionliteral.LiteralKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0d105fa8-eb1b-415a-9999-acdd521eab04" name="Default Changelist" comment="" />
+      <created>1575984633283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575984633283</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="318" y="215" width="1064" height="671" key="#Project_Structure" timestamp="1576238612403">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="318" y="215" width="1064" height="671" key="#Project_Structure/54.27.1866.1053@54.27.1866.1053" timestamp="1576238612403" />
+    <state x="445" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576237969012">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="445" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/54.27.1866.1053@54.27.1866.1053" timestamp="1576237969012" />
+    <state x="719" y="339" width="525" height="422" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1576237968045">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="719" y="339" width="525" height="422" key="#com.intellij.ide.util.TreeClassChooserDialog/54.27.1866.1053@54.27.1866.1053" timestamp="1576237968045" />
+    <state x="692" y="223" width="585" height="655" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1575984786662">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="692" y="223" width="585" height="655" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/54.27.1866.1053@54.27.1866.1053" timestamp="1575984786662" />
+    <state x="678" y="244" width="790" height="600" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1575985011319">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="678" y="244" width="790" height="600" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/54.27.1866.1053@54.27.1866.1053" timestamp="1575985011319" />
+    <state x="583" y="308" width="524" height="478" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1575985013036">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="583" y="308" width="524" height="478" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/54.27.1866.1053@54.27.1866.1053" timestamp="1575985013036" />
+    <state width="558" height="466" key="DebuggerActiveHint" timestamp="1576240391405">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="558" height="466" key="DebuggerActiveHint/54.27.1866.1053@54.27.1866.1053" timestamp="1576240391405" />
+    <state x="765" y="258" width="735" height="579" key="FileChooserDialogImpl" timestamp="1576244286226">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="765" y="258" width="735" height="579" key="FileChooserDialogImpl/54.27.1866.1053@54.27.1866.1053" timestamp="1576244286226" />
+    <state width="1820" height="335" key="GridCell.Tab.0.bottom" timestamp="1576570292722">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="1820" height="335" key="GridCell.Tab.0.bottom/54.27.1866.1053@54.27.1866.1053" timestamp="1576570292722" />
+    <state width="1820" height="335" key="GridCell.Tab.0.center" timestamp="1576570292721">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="1820" height="335" key="GridCell.Tab.0.center/54.27.1866.1053@54.27.1866.1053" timestamp="1576570292721" />
+    <state width="1820" height="335" key="GridCell.Tab.0.left" timestamp="1576570292720">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="1820" height="335" key="GridCell.Tab.0.left/54.27.1866.1053@54.27.1866.1053" timestamp="1576570292720" />
+    <state width="1820" height="335" key="GridCell.Tab.0.right" timestamp="1576570292721">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="1820" height="335" key="GridCell.Tab.0.right/54.27.1866.1053@54.27.1866.1053" timestamp="1576570292721" />
+    <state width="1820" height="335" key="GridCell.Tab.1.bottom" timestamp="1576570292723">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="1820" height="335" key="GridCell.Tab.1.bottom/54.27.1866.1053@54.27.1866.1053" timestamp="1576570292723" />
+    <state width="1820" height="335" key="GridCell.Tab.1.center" timestamp="1576570292723">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="1820" height="335" key="GridCell.Tab.1.center/54.27.1866.1053@54.27.1866.1053" timestamp="1576570292723" />
+    <state width="1820" height="335" key="GridCell.Tab.1.left" timestamp="1576570292722">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="1820" height="335" key="GridCell.Tab.1.left/54.27.1866.1053@54.27.1866.1053" timestamp="1576570292722" />
+    <state width="1820" height="335" key="GridCell.Tab.1.right" timestamp="1576570292723">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state width="1820" height="335" key="GridCell.Tab.1.right/54.27.1866.1053@54.27.1866.1053" timestamp="1576570292723" />
+    <state x="470" y="131" width="1024" height="839" key="SettingsEditor" timestamp="1576151119719">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="470" y="131" width="1024" height="839" key="SettingsEditor/54.27.1866.1053@54.27.1866.1053" timestamp="1576151119719" />
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog" timestamp="1576160967348">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="643" y="381" key="com.intellij.ide.util.TipDialog/54.27.1866.1053@54.27.1866.1053" timestamp="1576160967348" />
+    <state x="632" y="290" width="716" height="526" key="find.popup" timestamp="1576488972468">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="632" y="290" width="716" height="526" key="find.popup/54.27.1866.1053@54.27.1866.1053" timestamp="1576488972468" />
+    <state x="296" y="154" width="1372" height="792" key="new project wizard" timestamp="1576508689370">
+      <screen x="54" y="27" width="1866" height="1053" />
+    </state>
+    <state x="296" y="154" width="1372" height="792" key="new project wizard/54.27.1866.1053@54.27.1866.1053" timestamp="1576508689370" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/properties/src/tasks/examples/delegates/Delegates.kt</url>
+          <line>31</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/properties/src/tasks/examples/delegates/Delegates.kt</url>
+          <line>24</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
